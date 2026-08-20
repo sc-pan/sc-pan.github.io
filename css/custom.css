@@ -104,6 +104,16 @@ p, div, a, button {
 
 
 
+.team-photo img{
+
+  max-height:200px !important;
+  width:auto;
+  margin-top:18px !important;
+
+}
+
+
+
 .carousel-heading{
 
   font-size:48px;
